@@ -1,0 +1,51 @@
+- Agents in a product flow
+- Entrepreneur 
+- Nature of Entrepreneur
+- importance of entrepreneurship 
+- Intrapreneur and it's characteristics 
+- advantages of entrepreneurship
+- types of entrepreneur
+    - Functional characteristics
+    - Developmental Angle
+    - Type of entrepreneural bussinesses
+    - Based on 9 personality trait(IASAVAFHH)
+- how to get business ideas
+- SCAMPER
+	- P
+- converting business idea to business opportunity*
+- converting business opportunities into reality*
+- Types of Startups
+- Franchise business
+- Incubators
+	- Facilities
+	- Types*
+	- Types acc to NBIA*
+	- Incubation centre examples*
+	- How to get into a business incubator
+- setting up of a small enterprise*
+- issues related to location
+- industrial policies and regulation**
+	- IPR,1948(4)
+	- IPR,1956(ABC)
+	- IPR,1977(tiny unit)
+	- IPR,1980(MRTP,FERA)
+	- IPR,1991(LPG,BIFR)
+- Basics of Accounting: Assets, Liabilities, Equity,Liquidity, Working Capital,Revenue, Expenses
+- 4Ps of Marketing/Marketing Minx
+	- Product Mix
+	- Types of Pricing
+	- Place Mix
+	- Promotion Mix
+- HRM Functions(POSDCoRB)
+- Labour Laws in India
+- Factories Act
+- Organizational support services
+	- NSIC(SQ)
+	- SIDBI(LQ)
+- Incentives and Subsidies
+- Types of Industries based on Investment and Turnover
+- Characteristics of SSIs
+- Need of SSIs
+- Problems in SSIs
+
+
