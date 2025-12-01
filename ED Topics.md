@@ -2,26 +2,27 @@
 - Entrepreneur 
 - Nature of Entrepreneur
 - importance of entrepreneurship 
-- Intrapreneur and it's characteristics 
+- Intrapreneur and it's characteristics(shared vision and initiative) 
 - advantages of entrepreneurship
+- Entrepreneur vs Manager*
 - types of entrepreneur
     - Functional characteristics
-    - Developmental Angle
-    - Type of entrepreneural bussinesses
-    - Based on 9 personality trait(IASAVAFHH)
+    - Developmental Angle*
+    - Type of entrepreneural bussinesses*
+    - Based on 9 personality trait
 - how to get business ideas
 - SCAMPER
-	- P
-- converting business idea to business opportunity*
+	- Reverse Example*
+- converting business idea to business opportunity(understanding competetors)*
 - converting business opportunities into reality*
-- Types of Startups
+- Types of Startups*
 - Franchise business
 - Incubators
 	- Facilities
-	- Types*
+	- Types
 	- Types acc to NBIA*
 	- Incubation centre examples*
-	- How to get into a business incubator
+	- How to get into a business incubator*
 - setting up of a small enterprise*
 - issues related to location
 - industrial policies and regulation**
@@ -31,21 +32,27 @@
 	- IPR,1980(MRTP,FERA)
 	- IPR,1991(LPG,BIFR)
 - Basics of Accounting: Assets, Liabilities, Equity,Liquidity, Working Capital,Revenue, Expenses
-- 4Ps of Marketing/Marketing Minx
+- 4Ps of Marketing/Marketing Minx*
 	- Product Mix
 	- Types of Pricing
 	- Place Mix
 	- Promotion Mix
-- HRM Functions(POSDCoRB)
-- Labour Laws in India
+- STP
+- HRM Functions(POSDCoRB)*
+- Labour Laws in India*
 - Factories Act
-- Organizational support services
+- Organizational support services**
 	- NSIC(SQ)
 	- SIDBI(LQ)
-- Incentives and Subsidies
+- Incentives and Subsidies**
 - Types of Industries based on Investment and Turnover
 - Characteristics of SSIs
 - Need of SSIs
 - Problems in SSIs
-
+- Sick Unit
+- Causes of Sickness
+- Symptoms of Sickness
+- Banks and Government in curing sickness
+- State Institutions
+- Central Institutions
 
