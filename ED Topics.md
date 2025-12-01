@@ -53,6 +53,7 @@
 - Causes of Sickness
 - Symptoms of Sickness
 - Banks and Government in curing sickness
-- State Institutions
-- Central Institutions
+- State Institutions: DI,DIC,SFC,SIDC,SIIC,SSIDC
+- Central Institutions: SSI,KVIC,SIDO,NSIC,NPC,NISIET,NIESBUD
+
 
