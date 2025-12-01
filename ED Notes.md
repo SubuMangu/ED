@@ -93,6 +93,91 @@ Local trader entrepreneurs operate within a limited geographic area like a city,
 * **Trait:** Compassionate, healing-oriented, and committed to welfare and support.
 * **Example:** NGO / Trust / Non-profit based organizations
 
+Here is a **clear and exam-friendly explanation** of **Startups** and **their types**:
+
+---
+
+# **Startup**
+
+A **startup** is a newly established business created by entrepreneurs to develop a unique product or service, solve a problem, or bring innovation to the market. Startups usually begin with limited resources but high growth potential, and they focus on experimenting, adapting, and scaling rapidly.
+
+---
+
+# **Types of Startups**
+
+## **1. Small-Scale Startup**
+
+These startups operate on a small investment and primarily serve local or niche markets. They focus on stable income rather than high profits or rapid expansion.
+
+### **Example**
+
+Small retail shops, local bakeries, tuition centers, small manufacturing units, etc.
+
+---
+
+## **2. Buyable Startup**
+
+These startups are developed with the intention of being acquired (bought) later by larger companies. They create innovative products or technology and then sell the business for a profit.
+
+### **Example**
+
+Tech startups building apps or software that are later sold to big companies (e.g., startups acquired by Google, Meta, or Microsoft).
+
+---
+
+## **3. Scalable Startup**
+
+These startups aim for rapid growth and expansion globally. They are built on innovative ideas, seek large investments such as venture capital, and have the potential to create huge profits.
+
+### **Example**
+
+Companies like Zoho, Ola, OYO, Zomato, and Flipkart started small but scaled rapidly with funding.
+
+---
+
+## **4. Big Business / Large-Scale Startup**
+
+These startups begin with large capital and strong business planning. Usually started by experienced entrepreneurs or corporate groups, they target national or international markets from the beginning.
+
+### **Example**
+
+Reliance Jio, Tata Neu, Adani enterprises expanding into multiple sectors.
+
+---
+
+## **5. Lifestyle Startup**
+
+These startups are created around an individual's passion, talent, or hobby. The main motive is personal satisfaction and income, not high financial growth.
+
+### **Example**
+
+Dance academies, photography studios, fitness trainers, bakery hobby businesses, YouTubers and content creators.
+
+---
+
+## **6. Social Startup**
+
+These startups work to solve social problems rather than just earn profit. Their primary goal is social welfare and positive impact on society. They operate as NGOs, charities, or mission-driven enterprises.
+
+### **Examples**
+
+Akshaya Patra Foundation (mid-day meals), Teach For India, Goonj, Smile Foundation.
+
+---
+
+## **Summary Table**
+
+| Type of Startup | Main Objective               | Example                             |
+| --------------- | ---------------------------- | ----------------------------------- |
+| Small-scale     | Local business growth        | Local bakery                        |
+| Buyable         | Built to be sold later       | Tech startups acquired by big firms |
+| Scalable        | Rapid global expansion       | Flipkart, Zomato                    |
+| Large-scale     | Big investment & wide market | Reliance Jio                        |
+| Lifestyle       | Personal passion & freedom   | Photography studio                  |
+| Social          | Social improvement           | Akshaya Patra                       |
+
+
+
 ## SCAMPER for finding business ideas
 Here is a clear explanation of **SCAMPER** for identifying business ideas:
 
